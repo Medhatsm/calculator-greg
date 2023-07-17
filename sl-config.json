@@ -1,0 +1,13 @@
+{
+    "tokenFile": "./sltoken.txt",
+    "createBuildSessionId": false,
+    "executionType": "testsonly",
+    "testStage": "Gregory_TestNG",
+    "labId": "integ_dev_52ce_CalculatorMedhatjenkins",
+    "runFunctionalTests": true,
+    "proxy": "",
+    "logEnabled": true,
+    "logDestination": "console",
+    "logLevel": "info",
+    "sealightsJvmParams": {}
+  }
